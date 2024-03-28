@@ -1,0 +1,9 @@
+body {
+    background-color: antiquewhite;
+}
+.center1 {
+    text-align: center;
+    position: relative;
+    margin-top: 17%;
+    font-size: 100px;
+}

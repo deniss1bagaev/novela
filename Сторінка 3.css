@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+}
+.move3 {
+    float: left;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin-top: 18%;
+}
+.pip {
+    font-size: 50px;
+}
+.line3 {
+    font-size: 50px;
+    margin-right: 40px;
+}
+.center1 {
+    text-align: center;
+    position: relative;
+    margin-top: 17%;
+    font-size: 100px;
+}
+.link {
+    color: red;
+}
